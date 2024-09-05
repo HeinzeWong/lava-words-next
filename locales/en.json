@@ -1,0 +1,40 @@
+{
+	"Hero": {
+		"h1": "Boost Your Vocabulary",
+		"h2": "Echo Words offers a robust, proprietary vocabulary learning platform designed with innovative technology to accelerate your language acquisition."
+	},
+	"Feature": {
+		"h2": "Our Features",
+		"h3": "Benefits of Echo Words Platform",
+		"description1": "Intuitive and engaging vocabulary learning environment.",
+		"description2": "Leverages advanced learning technologies like spaced repetition for effective learning.",
+		"description3": "Completely open source and free for everyone."
+	},
+	"Pricing": {
+		"h2": "Our Pricing",
+		"h3": "Choose Your Subscription",
+		"description": "Select the subscription plan that best fits your learning needs.",
+		"doYouLike": "你喜欢这个词汇学习平台吗？",
+		"follow": "关注我们的Twitter获取更多更新。"
+	},
+	"Testimonial": {
+		"h2": "Testimonials",
+		"h3": "Success Stories",
+		"description1": "If you've improved your vocabulary with Echo Words,",
+		"description2": "please share your story on Twitter",
+		"description3": "and let us know—we might showcase your tweet here."
+	},
+	"Faq": {
+		"h2": "FAQ",
+		"h3": "Frequently Asked Questions",
+		"description": "Here are some of the most frequently asked questions about our vocabulary platform."
+	},
+	"CTA": {
+		"h2": "Start Learning Vocabulary Today",
+		"h3": "Use Echo Words to enhance your vocabulary and communication skills!"
+	},
+	"CTAButton": {
+		"btn1": "Sign Up Now",
+		"btn2": "Discover More"
+	}
+}
