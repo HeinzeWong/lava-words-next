@@ -59,7 +59,7 @@ export default function Hero({ locale, CTALocale }) {
 							<a
 								title='get source code'
 								className='btn btn-sm md:btn-md btn-base border-none hover:ring-1 ring-base-content text-base-100 hover:text-base-content bg-base-content hover:bg-base-100 rounded-full'
-								href='https://github.com/huglemon/inwind-landing-page'
+								href='https://www.google.com'
 							>
 								<FaGooglePlay />
 								{CTALocale.btn1}
