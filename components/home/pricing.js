@@ -4,7 +4,7 @@ import { PricingList } from '@/lib/pricingList';
 import { motion } from 'framer-motion';
 import { IoMdPricetags } from 'react-icons/io';
 
-export default function Feature({ locale, langName = 'en' }) {
+export default function Pricing({ locale, langName = 'en' }) {
 	let list = PricingList[`PRICING_${langName.toUpperCase()}`] || [];
 
 	return (

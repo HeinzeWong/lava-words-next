@@ -1,0 +1,40 @@
+{
+	"Hero": {
+		"h1": "Tingkatkan Perbendaharaan Kata Anda",
+		"h2": "Echo Words menyediakan platform pembelajaran kosakata eksklusif yang kuat dengan teknologi inovatif untuk mempercepat pembelajaran bahasa."
+	},
+	"Feature": {
+		"h2": "Fitur Kami",
+		"h3": "Keuntungan Platform Echo Words",
+		"description1": "Lingkungan belajar kosakata yang intuitif dan menarik.",
+		"description2": "Manfaatkan teknologi pembelajaran canggih seperti metode pengulangan berjarak untuk pembelajaran efektif.",
+		"description3": "Disesuaikan untuk berbagai kebutuhan pembelajaran."
+	},
+	"Pricing": {
+		"h2": "Harga Kami",
+		"h3": "Pilih Rencana Langganan Anda",
+		"description": "Pilih rencana langganan yang paling cocok dengan kebutuhan belajar Anda.",
+		"doYouLike": "Apakah Anda menyukai platform belajar kosakata ini?",
+		"follow": "Ikuti Twitter kami untuk lebih banyak pembaruan."
+	},
+	"Testimonial": {
+		"h2": "Testimoni Pengguna",
+		"h3": "Kisah Sukses",
+		"description1": "Jika perbendaharaan kata Anda meningkat melalui Echo Words,",
+		"description2": "silakan bagikan cerita Anda di Twitter",
+		"description3": "Beritahu kami—kami mungkin akan menampilkan tweet Anda di sini."
+	},
+	"Faq": {
+		"h2": "FAQ",
+		"h3": "Jawaban dari Pertanyaan yang Sering Diajukan",
+		"description": "Berikut beberapa pertanyaan umum tentang platform kosakata kami."
+	},
+	"CTA": {
+		"h2": "Mulai Belajar Kosakata Sekarang",
+		"h3": "Tingkatkan perbendaharaan kata dan keterampilan komunikasi Anda dengan Echo Words!"
+	},
+	"CTAButton": {
+		"btn1": "Daftar Sekarang",
+		"btn2": "Pelajari Lebih Lanjut"
+	}
+}

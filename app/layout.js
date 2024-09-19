@@ -34,13 +34,9 @@ export default async function RootLayout({ children }) {
 				<CustomHead />
 			</head>
 			<body>
-				<ThemeProvider>
-					<div className='w-full min-h-svh text-base-content bg-base-100'>
-						<Navbar />
-						<div className='px-5'>{children}</div>
-						<Footer />
-					</div>
-				</ThemeProvider>
+				{
+					children
+				}
 			</body>
 		</html>
 	);
