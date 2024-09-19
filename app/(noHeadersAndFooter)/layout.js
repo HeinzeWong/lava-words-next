@@ -9,10 +9,8 @@ import { ThemeProvider } from '@/context/ThemeContext';
 
 export default async function RootLayout ({ children }) {
 	return (
-		<ThemeProvider>
 			<div className='w-full min-h-svh text-base-content bg-base-100'>
 				<div className='px-5'>{children}</div>
 			</div>
-		</ThemeProvider>
 	);
 }
