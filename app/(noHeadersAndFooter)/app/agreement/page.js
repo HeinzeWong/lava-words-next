@@ -1,4 +1,4 @@
-import term from '@/components/privacy/privacy.md'
+import term from '@/components/agreement/agreement.md'
 import styles from '@/components/privacy/index.module.scss'
 
 export default function Term() {
