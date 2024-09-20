@@ -25,7 +25,7 @@ Anda sehubungan dengan akses Anda ke Layanan; (ii) setiap biaya atau biaya yang 
 dengan penggunaan Anda atas Layanan apa pun (sebagaimana berlaku); (iii) kepatuhan
 Anda terhadap Ketentuan ini; dan (iv) memastikan bahwa setiap partisipasi Anda dalam
 Layanan, dalam hal apa pun, tidak akan mengakibatkan pelanggaran hukum dan
-peraturan yang berlaku terkait dengan perlindungan anak.  
+peraturan yang berlaku terkait dengan perlindungan anak. 
 
 Dengan memeriksa kotak centang "Saya telah membaca dan menyetujui Persyaratan
 Layanan," atau terus menggunakan atau mengakses Layanan apa pun, Anda setuju dan
